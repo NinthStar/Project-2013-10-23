@@ -1,0 +1,39 @@
+div
+{
+	margin				: 8px 0px 8px 0px;
+	border				: 0px;
+	border-radius		: 3px;
+	padding				: 0px 8px 0px 8px;
+}
+#Calender
+{
+	padding				: 0px 0px 0px 0px;
+	width				: 360px;
+	height				: 208px;
+	background-color	: #90C;
+}
+#CalenderTitle
+{
+	height				: 48px;
+	text-align			: center;
+	color				: #FFF;
+	font				: 30px / 48px Helvetica, Arial;
+}
+#CalenderFrame
+{
+	background-color	: #CFF;
+}
+.CalenderElement
+{
+	width				: 64px;
+	height				: 80px;
+	background-color	: #0FC;
+	text-align			: center;
+	color				: #FFF;
+	font				: 28px / 80px Helvetica, Arial;
+	display				: inline-block;
+}
+#Year
+{
+	width				: 152px;
+}
